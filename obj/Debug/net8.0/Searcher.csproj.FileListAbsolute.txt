@@ -1,0 +1,14 @@
+C:\code\C#\Searcher\bin\Debug\net8.0\Searcher.exe
+C:\code\C#\Searcher\bin\Debug\net8.0\Searcher.deps.json
+C:\code\C#\Searcher\bin\Debug\net8.0\Searcher.runtimeconfig.json
+C:\code\C#\Searcher\bin\Debug\net8.0\Searcher.dll
+C:\code\C#\Searcher\bin\Debug\net8.0\Searcher.pdb
+C:\code\C#\Searcher\obj\Debug\net8.0\Searcher.GeneratedMSBuildEditorConfig.editorconfig
+C:\code\C#\Searcher\obj\Debug\net8.0\Searcher.AssemblyInfoInputs.cache
+C:\code\C#\Searcher\obj\Debug\net8.0\Searcher.AssemblyInfo.cs
+C:\code\C#\Searcher\obj\Debug\net8.0\Searcher.csproj.CoreCompileInputs.cache
+C:\code\C#\Searcher\obj\Debug\net8.0\Searcher.dll
+C:\code\C#\Searcher\obj\Debug\net8.0\refint\Searcher.dll
+C:\code\C#\Searcher\obj\Debug\net8.0\Searcher.pdb
+C:\code\C#\Searcher\obj\Debug\net8.0\Searcher.genruntimeconfig.cache
+C:\code\C#\Searcher\obj\Debug\net8.0\ref\Searcher.dll
